@@ -123,6 +123,3 @@ To enable LangSmith tracing, set the `LANGCHAIN_TRACING_V2` environment variable
 
 Contributions are welcome!  Feel free to submit pull requests with improvements or new features.
 
-## License
-
-[Choose a License - e.g., MIT License]
